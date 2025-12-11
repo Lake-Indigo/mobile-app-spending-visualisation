@@ -1,0 +1,90 @@
+name	sector	x	y	cx	cy	taxes	earnings	capitalization
+Xaira Therapeutics	AI Healthcare	0	0	0	0	0	12000	1000000
+Reflection AI	AI Foundation Models	10	0	10	0	0	8000	2200000
+Periodic Labs	Material Science	20	0	20	0	0	2000	300000
+Polymarket	Prediction Markets	30	0	30	0	0	145000	450000
+Castellion	Defense Tech	40	0	40	0	0	78000	460000
+Base Energy	Clean Energy	50	0	50	0	0	34000	1000000
+Fireworks AI	AI Infrastructure	60	0	60	0	0	42000	250000
+Modal Labs	Cloud Computing	70	0	70	0	0	18000	110000
+Gamma	AI Design Tools	80	0	80	0	0	25000	68000
+Genspark AI	AI Agents	90	0	90	0	0	31000	275000
+Moonvalley	Generative AI	0	10	0	10	0	9000	70000
+/dev/agents	AI Operating Systems	10	10	10	10	0	5000	56000
+Pacific Fusion	Fusion Energy	20	10	20	10	0	0	900000
+Thyme Care	Oncology Care	30	10	30	10	0	67000	280000
+Strive Health	Kidney Care	40	10	40	10	0	98000	450000
+Lila Sciences	Life Sciences	50	10	50	10	0	8000	550000
+Stoke Space	Aerospace	60	10	60	10	0	23000	1000000
+Devoted Health	Medicare Advantage	70	10	70	10	0	1200000	2256000
+Spring Health	Mental Health	80	10	80	10	0	180000	640000
+Headway	Mental Health	90	10	90	10	0	95000	325000
+Grow Therapy	Mental Health	0	20	0	20	0	72000	158000
+PayZen	Healthcare Fintech	10	20	10	20	0	41000	232000
+Atlys	Immigration Tech	20	20	20	20	0	8000	65000
+Tomo Credit	Fintech	30	20	30	20	0	28000	139000
+Slope	B2B Payments	40	20	40	20	0	34000	252000
+Found	Small Business Banking	50	20	50	20	0	52000	119000
+Monarch Money	Personal Finance	60	20	60	20	0	30000	100000
+Crux Climate	Clean Energy Fintech	70	20	70	20	0	12000	90000
+Glean AI	Enterprise Search	80	20	80	20	0	65000	316000
+Harvey AI	Legal Tech	90	20	90	20	0	48000	300000
+Sprinter Health	Home Healthcare	0	30	0	30	0	18000	45000
+Intrepid Labs	Drug Formulation	10	30	10	30	0	4000	28000
+Kintsugi Health	Mental Health AI	20	30	20	30	0	7000	20000
+Freenome	Cancer Screening	30	30	30	30	0	89000	650000
+Anyfin	Consumer Finance	40	30	40	30	0	32000	45000
+PhonePe	Digital Payments	50	30	50	30	0	420000	850000
+Razorpay	Payment Gateway	60	30	60	30	0	385000	740000
+Zepto	Quick Commerce	70	30	70	30	0	290000	665000
+Meesho	Social Commerce	80	30	80	30	0	310000	570000
+Licious	Food Delivery	90	30	90	30	0	195000	380000
+Urban Company	Home Services	0	40	0	40	0	215000	425000
+BharatPe	Fintech	10	40	10	40	0	180000	650000
+Ola Electric	Electric Vehicles	20	40	20	40	0	520000	800000
+Dunzo	Quick Commerce	30	40	30	40	0	125000	470000
+Rebel Foods	Cloud Kitchens	40	40	40	40	0	165000	525000
+Tractable	Computer Vision	50	40	50	40	0	48000	185000
+Monzo	Digital Banking	60	40	60	40	0	420000	925000
+Revolut	Fintech	70	40	70	40	0	850000	1700000
+Starling Bank	Digital Banking	80	40	80	40	0	380000	650000
+Wise	Money Transfer	90	40	90	40	0	720000	1100000
+Checkout.com	Payment Processing	0	50	0	50	0	580000	2300000
+Graphcore	AI Chips	10	50	10	50	0	95000	710000
+Synthesia	AI Video	20	50	20	50	0	42000	156000
+Stability AI	Generative AI	30	50	30	50	0	18000	101000
+Wayve	Autonomous Driving	40	50	40	50	0	28000	1350000
+Zopa	Digital Banking	50	50	50	50	0	195000	450000
+Zilch	Buy Now Pay Later	60	50	60	50	0	78000	325000
+SumUp	Payment Processing	70	50	70	50	0	625000	1580000
+Trade Republic	Investment Platform	80	50	80	50	0	285000	900000
+N26	Digital Banking	90	50	90	50	0	320000	1700000
+GetYourGuide	Travel Tech	0	60	0	60	0	245000	850000
+Wefox	Insurtech	10	60	10	60	0	410000	1400000
+Mambu	Banking Software	20	60	20	60	0	165000	550000
+Celonis	Process Mining	30	60	30	60	0	780000	2800000
+Personio	HR Software	40	60	40	60	0	245000	830000
+Contentful	Content Platform	50	60	50	60	0	195000	580000
+Infarm	Vertical Farming	60	60	60	60	0	85000	604000
+Lilium	Electric Aviation	70	60	70	60	0	42000	1500000
+FlixBus	Transportation	80	60	80	60	0	580000	2100000
+Tier Mobility	E-Scooters	90	60	90	60	0	125000	685000
+Gorillas	Quick Commerce	0	70	0	70	0	185000	1300000
+Auto1 Group	Used Car Platform	10	70	10	70	0	3200000	1850000
+Grab	Super App	20	70	20	70	0	2800000	12500000
+Gojek	Super App	30	70	30	70	0	2100000	8900000
+Tokopedia	E-commerce	40	70	40	70	0	1850000	7200000
+Bukalapak	E-commerce	50	70	50	70	0	650000	1650000
+Sea Limited	Digital Entertainment	60	70	60	70	0	12400000	15800000
+Lazada	E-commerce	70	70	70	70	0	4200000	8500000
+Nium	Cross-border Payments	80	70	80	70	0	145000	485000
+Carro	Used Car Platform	90	70	90	70	0	320000	850000
+PropertyGuru	Real Estate Tech	0	80	0	80	0	285000	620000
+Advance.ai	AI Risk Management	10	80	10	80	0	95000	240000
+Kredivo	Buy Now Pay Later	20	80	20	80	0	125000	370000
+Akulaku	Digital Bank	30	80	30	80	0	245000	680000
+Halodoc	Healthcare Platform	40	80	40	80	0	145000	425000
+Alodokter	Healthcare Platform	50	80	50	80	0	78000	215000
+Anteraja	Logistics	60	80	60	80	0	285000	485000
+Shipper	Logistics Tech	70	80	70	80	0	52000	165000
+JD.id	E-commerce	80	80	80	80	0	1450000	2800000
